@@ -76,7 +76,7 @@ Each layer is associated with its own Media Type, which is stored in the OCI Des
 | application/vnd.io.wasm.module.config.v1+json | JSON Object | Configuration for the Target WASM runtime.
 | application/vnd.module.wasm.content.layer.v1+wasm | binary data (byte array) | The compiled module data |
 
-application/vnd.io.wasm.module.config.v1+json Property Descriptions:
+`application/vnd.io.wasm.module.config.v1+json` Property Descriptions:
 
 | Property   | Type | Description |
 |------------|------|-------------|
