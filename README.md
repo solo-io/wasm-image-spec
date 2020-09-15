@@ -1,3 +1,6 @@
+# WASM OCI Image Specification has moved
+
+The latest version of the WASM OCI Image Specification can be found at its new home [here](https://github.com/solo-io/wasm/blob/master/spec/README.md)
 
 ## WASM OCI Image Specification v0.0.0
 
